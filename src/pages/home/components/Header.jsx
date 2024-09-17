@@ -15,9 +15,9 @@ function Header() {
                 </div>
                 {
                     menu ?
-                        <button onClick={() => setMenu(false)} className="text-xl text-white font-bold sm:hidden"><TbMenuDeep /></button>
+                        <button onClick={() => setMenu(false)} className="text-3xl text-white font-bold sm:hidden"><TbMenuDeep /></button>
                         :
-                        <button onClick={() => setMenu(true)} className="text-xl text-white font-bold sm:hidden"><TbMenu2 /></button>
+                        <button onClick={() => setMenu(true)} className="text-3xl text-white font-bold sm:hidden"><TbMenu2 /></button>
                 }
 
 
