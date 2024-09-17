@@ -30,7 +30,7 @@ function About() {
 
             <aside className="w-full sm:w-5/12 mt-10 sm:mt-0 flex flex-col items-center justify-center">
                 <h3 className="text-xl sm:text-2xl text-white font-bold text-center">Deixe-nos desenvolver o seu projecto!</h3>
-                <a href="http://" className="w-full sm:w-8/12 flex items-center justify-center text-base font-normal mt-6 bg-green-600/80 text-white py-5 rounded hover:opacity-80 hover:scale-95 ease-in-out duration-300">
+                <a target="_blank" href="https://wa.me/+258862585512" className="w-full sm:w-8/12 flex items-center justify-center text-base font-normal mt-6 bg-green-600/80 text-white py-5 rounded hover:opacity-80 hover:scale-95 ease-in-out duration-300">
                     Solicitar negociação
                     <span className="ml-5 text-3xl"><BsWhatsapp /></span>
                 </a>

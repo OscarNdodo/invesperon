@@ -13,7 +13,7 @@ function Hero() {
                     <span className="border-b-4 border-sky-400/80">Estamos aqu</span>i para fazer o seu negócio destacar-se e ganhar a concorrência com  o <strong>Software</strong> ideal para se e para o seu <strong>negócio</strong>...  
                 </p>
                 <div className="w-full sm:w-8/12 mt-8 sm:mt-0 flex flex-col sm:flex-row items-center justify-center sm:justify-between">
-                    <a href="https://we.me/+258862585512" className="w-full sm:w-6/12 text-center sm:mr-2 bg-sky-500 hover:scale-95 hover:opacity-80 duration-300 ease-in-out rounded-lg py-3 text-white border ">Contacte-nos</a>
+                    <a target="_blank" href="https://wa.me/+258862585512" className="w-full sm:w-6/12 text-center sm:mr-2 bg-sky-500 hover:scale-95 hover:opacity-80 duration-300 ease-in-out rounded-lg py-3 text-white border ">Contacte-nos</a>
 
                     <button className="w-full sm:w-6/12 sm:ml-2 border border-sky-500 hover:scale-95 hover:opacity-80 duration-300 ease-in-out rounded-lg mt-4 sm:mt-0 py-3 text-sky-500  ">Calcular Orçamento</button>
                 </div>

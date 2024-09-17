@@ -14,7 +14,7 @@ function Services() {
 
             <Dev />
 
-            <a href="https://wa.me/+258862585512" className="w-full justify-end items-end flex text-gray-900 mt-4 font-bold text-3xl animate-pulse"><small className="text-sm font-mono">Mais info...</small><PiArrowBendUpRight /></a>
+            <a target="_blank" href="https://wa.me/+258862585512" className="w-full justify-end items-end flex text-gray-900 mt-4 font-bold text-3xl animate-pulse"><small className="text-sm font-mono">Mais info...</small><PiArrowBendUpRight /></a>
         </div>
     );
 
