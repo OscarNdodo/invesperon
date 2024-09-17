@@ -11,7 +11,7 @@ function Header() {
             <h1 className="flex items-center justify-between w-full">
                 <div className="flex items-center">
                     <img src="./images/logot.png" className="w-12" alt="" />
-                    <a href="#" className="text-sky-500 font-bold text-xl">invesperon</a>
+                    <a href="#" className="text-sky-500 font-bold text-xl">invespera</a>
                 </div>
                 {
                     menu ?
