@@ -15,7 +15,7 @@ function Hero() {
                 <div className="w-full sm:w-8/12 mt-8 sm:mt-0 flex flex-col sm:flex-row items-center justify-center sm:justify-between">
                     <a target="_blank" href="https://wa.me/+258862585512" className="w-full sm:w-6/12 text-center sm:mr-2 bg-sky-500 hover:scale-95 hover:opacity-80 duration-300 ease-in-out rounded-lg py-3 text-white border ">Contacte-nos</a>
 
-                    <button className="w-full sm:w-6/12 sm:ml-2 border border-sky-500 hover:scale-95 hover:opacity-80 duration-300 ease-in-out rounded-lg mt-4 sm:mt-0 py-3 text-sky-500  ">Calcular Orçamento</button>
+                    <button className="w-full sm:w-6/12 sm:ml-2 border border-sky-500 hover:scale-95 hover:opacity-80 duration-300 ease-in-out rounded-lg mt-4 sm:mt-0 py-3 text-sky-500 " onClick={() => alert("Em Desenvolvimento!")}>Calcular Orçamento</button>
                 </div>
             </aside>
             <img src="./images/logot.png" className="animate-spin ease-linear hidden sm:flex items-center w-96 mt-20 border-2 border-sky-500 rounded-full" />
