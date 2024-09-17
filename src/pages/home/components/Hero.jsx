@@ -8,7 +8,7 @@ function Hero() {
     return (
         <section className="w-full flex flex-col sm:flex-row items-center sm:justify-between px-2 py-20 sm:py-0 sm:px-20 bg-sky-80 sm:h-full">
             <aside className="w-full sm:w-6/12 flex flex-col items-start justify-center h-full">
-                <p className="text-lg sm:text-2xl uppercse text-gray-900/90 pt-5 sm:py-10" style={{ lineHeight: 1.6 }}>
+                <p className="text-2xl uppercse text-gray-900/90 pt-5 sm:py-10" style={{ lineHeight: 1.6 }}>
                     Estamos vivendo em uma nova era, onde a <strong>tecnológia</strong> está presente em todos lugares, <strong>flexiblitando</strong> o modo de viver, comunicar e empreender.<br />
                     <span className="border-b-4 border-sky-400/80">Estamos aqu</span>i para fazer o seu negócio destacar-se e ganhar a concorrência com  o <strong>Software</strong> ideal para se e para o seu <strong>negócio</strong>...  
                 </p>
